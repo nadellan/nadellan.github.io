@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, everyone!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am Nithya, and I am currently pursuing a degree in Data Science at Michigan State University. Born in Royal Oak, Michigan, I spent the first nine years of my life in Lake Orion before eventually settling in Novi. Growing up with parents who work in the field of STEM, I developed a keen interest in building a future within this domain. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As an undergraduate, I have gained a foundational understanding of the principles in data analysis and coding. Through my coursework, I was able to apply a multitude of techniques in programming languages such as Python, R Studio, and C ++. These experiences have enabled me to derive insights from many different perspectives and make well-informed conclusions.
+
+Beyond my academic endeavors, I hold a great passion for the arts and beauty. I have a love for classical styles of art and I aspire to incorporate it in my daily life. This may involve studying the applications of it in literature, music, and paintings. This enables my desire to create a kind of work that is inspired by the beauty and spirit in classical art.
